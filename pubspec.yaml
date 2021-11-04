@@ -1,7 +1,8 @@
 name: dotup_flutter_wear
 description: A new flutter plugin project.
-version: 1.0.0
+version: 1.0.1
 homepage: https://dotup.de
+repository: https://github.com/dotupNET/dotup_flutter_wear
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

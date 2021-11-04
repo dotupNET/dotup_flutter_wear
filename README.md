@@ -23,8 +23,11 @@ There currently three widgets provided by the plugin:
 
 ## Links
 
-> dotup_flutter_widgets on [pub.dev](https://pub.dev/packages/dotup_flutter_widgets)
+> dotup_flutter_wear on [github](https://github.com/dotupNET/dotup_flutter_wear)
 
+> dotup_flutter_wear on [pub.dev](https://pub.dev/packages/dotup_flutter_wear)
+
+> dotup_flutter_widgets on [pub.dev](https://pub.dev/packages/dotup_flutter_widgets)
 
 > Other widgets on [pub.dev](https://pub.dev/packages?q=dotup)
 
