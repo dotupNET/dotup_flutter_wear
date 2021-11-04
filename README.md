@@ -5,8 +5,10 @@ A plugin that offers Flutter support for Wear OS by Google (Android Wear).
 Based on https://github.com/fluttercommunity/flutter_wear_plugin
 
 
-[dotup.de](https://dotup.de)
-[flutter-apps](https://flutter-apps.ml)
+Take al look at:
+> [dotup.de](https://dotup.de)
+
+> [flutter-apps](https://flutter-apps.ml)
 
 # Widgets
 
@@ -17,13 +19,13 @@ There currently three widgets provided by the plugin:
 
 
 ## install
-`flutter pub add dotup_flutter_widgets`
+`flutter pub add dotup_flutter_wear`
 
 ## Links
 
-dotup_flutter_widgets on [pub.dev](https://pub.dev/packages/dotup_flutter_widgets)
+> dotup_flutter_widgets on [pub.dev](https://pub.dev/packages/dotup_flutter_widgets)
 
 
-> ## Other widgets on [pub.dev](https://pub.dev/packages?q=dotup)
-> 
-> ## Other open source flutter projects on [Github](https://github.com/search?q=dotup_flutter)
+> Other widgets on [pub.dev](https://pub.dev/packages?q=dotup)
+
+> Other open source flutter projects on [Github](https://github.com/search?q=dotup_flutter)

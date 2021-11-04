@@ -13,12 +13,13 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: WatchShape(
           child: Padding(
-            padding: EdgeInsets.fromLTRB(16, 8, 16, 8),
+            padding: EdgeInsets.fromLTRB(16, 0, 16, 0),
             child: Center(
               child: ListView(
                 children: [
                   Column(
                     children: [
+                      SizedBox(height: 16),
                       DotupLogo(size: 200),
                       SizedBox(height: 16),
                       Text('www.dotup.de'),

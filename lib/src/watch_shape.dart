@@ -1,7 +1,6 @@
 // ignore_for_file: prefer_generic_function_type_aliases
 
 import 'package:flutter/widgets.dart';
-import 'package:meta/meta.dart';
 
 import 'inherited_shape.dart';
 import 'wear.dart';
