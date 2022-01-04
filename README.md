@@ -21,6 +21,36 @@ There currently three widgets provided by the plugin:
 ## install
 `flutter pub add dotup_flutter_wear`
 
+## setup
+Change `kotlin_version` in `android/build.gradle`
+
+```diff
+-     ext.kotlin_version = '1.3.50'
++     ext.kotlin_version = '1.5.10'
+```
+
+Make the following changes in `android/app/build.gradle`
+
+```diff
+ android {
+-    compileSdkVersion 30
++    compileSdkVersion 31
+ 
+     defaultConfig {
+-        minSdkVersion 16
+-        targetSdkVersion 30
++        minSdkVersion 23
++        targetSdkVersion 31
+     }
+ 
+ dependencies {
+     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
++    implementation 'androidx.wear:wear:1.2.0'
++    implementation 'com.google.android.support:wearable:2.8.1'
++    compileOnly 'com.google.android.wearable:wearable:2.8.1'    
+ }
+```
+
 ## Links
 
 > dotup_flutter_wear on [github](https://github.com/dotupNET/dotup_flutter_wear)
